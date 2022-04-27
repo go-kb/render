@@ -1,4 +1,4 @@
-module github.com/go-chi/render
+module github.com/go-kb/render
 
 go 1.16
 
